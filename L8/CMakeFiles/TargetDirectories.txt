@@ -1,0 +1,3 @@
+/Users/enil/Desktop/Projects CMake/L8/CMakeFiles/Lab_8.dir
+/Users/enil/Desktop/Projects CMake/L8/CMakeFiles/ALL_BUILD.dir
+/Users/enil/Desktop/Projects CMake/L8/CMakeFiles/ZERO_CHECK.dir
